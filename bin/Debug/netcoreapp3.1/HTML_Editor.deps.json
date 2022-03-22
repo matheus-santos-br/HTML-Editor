@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HTML_Editor/1.0.0": {
+        "runtime": {
+          "HTML_Editor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HTML_Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
